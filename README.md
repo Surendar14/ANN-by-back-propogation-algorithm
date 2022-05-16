@@ -65,8 +65,8 @@ plt.show()
 ~~~
 
 ## Output:
-![Screenshot from 2022-05-16 09-36-36](https://user-images.githubusercontent.com/75235759/168518118-b74686b6-3606-48af-9f5f-cc75eedc8f40.png)
 
+![Screenshot from 2022-05-16 09-44-44](https://user-images.githubusercontent.com/75235759/168519076-b40661a2-82a9-46f9-ae4b-7e9624768683.png)
 
 
 ## Result:
